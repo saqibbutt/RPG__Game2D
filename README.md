@@ -1,17 +1,5 @@
-# https://www.davidepesce.com/2019/09/24/godot-tutorial-4-pixel-art-rpg/
+# https://www.davidepesce.com/2019/10/02/godot-tutorial-6-physics-and-collisions/
 
 # Git configuration: https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v1
 
-Git ignore:
-
-## Godot-specific ignores
-.import/
-export.cfg
-export_presets.cfg
-
-## Imported translations (automatically generated from CSV files)
-*.translation
-
-## Mono-specific ignores
-.mono/
-data_*/
+# Git ignore: https://github.com/github/gitignore/blob/main/Godot.gitignore
