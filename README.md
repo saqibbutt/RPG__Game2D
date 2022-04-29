@@ -1,4 +1,4 @@
-# https://www.davidepesce.com/2019/10/02/godot-tutorial-6-physics-and-collisions/
+# https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/
 
 # Git configuration: https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v1
 
@@ -24,5 +24,10 @@ Pixel Art Top Down RPG Characters: https://youtu.be/2x-WXmTYod0
 
 Pixel Art 2D RPG VFX Pack: https://youtu.be/wOBPMn10QcU
 
+Turn-based RPG made with Godot | Gameplay Demo: https://youtu.be/VxWCGjoeYw4
+
+GODOT RECIPES: http://kidscancode.org/godot_recipes/
+
+Pinterest: https://www.pinterest.com/pin/414753446936134495/
 
 
