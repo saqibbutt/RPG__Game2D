@@ -1,4 +1,4 @@
-# https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/
+# https://www.davidepesce.com/2019/10/23/godot-tutorial-8-2d-sprite-animation/
 
 # Git configuration: https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v1
 
